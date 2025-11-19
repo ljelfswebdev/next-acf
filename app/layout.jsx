@@ -9,7 +9,8 @@ const ToasterClient = dynamic(
 );
 
 export const metadata = {
-  title: 'Brochure CMS'
+  title: 'Brochure CMS',
+  description: 'A Next JS app using ACF styled templates, designed by Lewis Jelfs'
 };
 
 export default function RootLayout({ children }) {

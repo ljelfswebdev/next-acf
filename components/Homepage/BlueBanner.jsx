@@ -63,7 +63,8 @@ export default function BlueBanner({ data }) {
           <Image
             src={backgroundImage}
             alt="Banner Background"
-            fill
+            width={1920}       
+            height={600}
             className="object-cover object-center"
             priority
           />

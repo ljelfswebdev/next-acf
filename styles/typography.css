@@ -1,21 +1,21 @@
 body {
     /* H1 */
-    --font-min-h1: 80px;
-    --font-max-h1: 100px;
-    --lh-min-h1: 90px;
-    --lh-max-h1: 110px;
+    --font-min-h1: 50px;
+    --font-max-h1: 60px;
+    --lh-min-h1: 60px;
+    --lh-max-h1: 70px;
   
     /* H2 */
-    --font-min-h2: 80px;
-    --font-max-h2: 60px;
-    --lh-min-h2: 70px;
-    --lh-max-h2: 90px;
+    --font-min-h2: 40px;
+    --font-max-h2: 50px;
+    --lh-min-h2: 50px;
+    --lh-max-h2: 60px;
   
     /* H3 */
-    --font-min-h3: 60px;
+    --font-min-h3: 30px;
     --font-max-h3: 40px;
-    --lh-min-h3: 50px;
-    --lh-max-h3: 70px;
+    --lh-min-h3: 40px;
+    --lh-max-h3: 50px;
   
     /* H4 */
     --font-min-h4: 24px;
